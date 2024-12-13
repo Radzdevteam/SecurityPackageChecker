@@ -1,6 +1,3 @@
 {
-  "registered_packages": [
-    "radzdev.security",
-    "com.radzdev.otherapp"
-  ]
+  "valid_packages": ["com.radzdev.security", "another.package.name"]
 }
