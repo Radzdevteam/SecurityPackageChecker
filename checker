@@ -1,6 +1,6 @@
 {
   "registered_packages": [
-    "com.radzdev.security",
+    "radzdev.security",
     "com.radzdev.otherapp"
   ]
 }
